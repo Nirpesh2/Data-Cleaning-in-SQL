@@ -11,9 +11,9 @@ This project demonstrates my SQL skills by cleaning and standardizing a dataset 
 - Perform data cleaning steps such as duplicate removal, standardization, null handling, and column formatting.
 
 ## Dataset
-- **File**: `layoffs.csv` (included in this repository or available [via external link if too large]).
+- **File**: `layoffs.csv` 
 - **Description**: Contains information on layoffs across various companies, including company name, location, industry, total laid off, percentage laid off, date, stage, country, and funds raised.
-- **Source**: [Add source if known, e.g., "Public dataset from Kaggle" or "Self-collected data"].
+- **Source**: Kaggle.
 
 ## Tools
 - **SQL**: Used for all data cleaning operations (executed in [specify your SQL environment, e.g., MySQL, PostgreSQL, SQLite]).
